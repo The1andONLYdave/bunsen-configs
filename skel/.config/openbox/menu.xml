@@ -101,6 +101,13 @@
                     <command>x-terminal-emulator -T 'htop task manager' -e htop</command>
                 </action>
             </item>
+            <item label="BLOB Configurations Manager">
+                <action name="Execute">
+                    <command>
+                        blobthemes
+                    </command>
+                </action>
+            </item>
         </menu>
         <menu execute="bl-graphics-pipemenu" id="bl-graphics-pipemenu" label="Graphics"/>
         <menu execute="bl-multimedia-pipemenu" id="bl-multimedia-pipemenu" label="Multimedia"/>
