@@ -101,7 +101,7 @@
                     <command>x-terminal-emulator -T 'htop task manager' -e htop</command>
                 </action>
             </item>
-            <item label="BLOB Configurations Manager">
+            <item label="BLOB Themes Manager">
                 <action name="Execute">
                     <command>
                         blobthemes
