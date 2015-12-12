@@ -361,7 +361,8 @@
             <separator/>
             <item label="About Bunsen Alternatives">
                 <action name="Execute">
-                    <execute>zenity --text-info --title=&quot;About Bunsen Alternatives&quot; --filename=&quot;/usr/share/bunsen/bunsen-docs/helpfile-bl-alternatives.txt&quot; --width=900 --height=700</execute>
+                    <execute>yad --center --window-icon=distributor-logo-bunsenlabs --text-info --title=&quot;About Bunsen Alternatives&quot; --filename=&quot;/usr/share/bunsen/bunsen-docs/helpfile-bl-alternatives.txt&quot; --width=900 --height=700 --fontname=Monospace
+                    </execute>
                 </action>
             </item>
         </menu>
