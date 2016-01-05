@@ -104,7 +104,7 @@
             <item label="BLOB Themes Manager">
                 <action name="Execute">
                     <command>
-                        blobthemes
+                        bl-obthemes
                     </command>
                 </action>
             </item>
